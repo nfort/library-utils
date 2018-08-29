@@ -13,7 +13,7 @@
     "ejs": "2.5.7",
     "event-stream": "3.3.4",
     "gulp": "3.9.1",
-    "gulp-babel": "7.0.1",
+    "gulp-babel": "8.0.0",
     "gulp-clone": "2.0.1",
     "gulp-filter": "^5.1.0",
     "gulp-postcss": "7.0.1",
